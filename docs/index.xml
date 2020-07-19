@@ -29,5 +29,32 @@
       <description>Presentación de Modelos 3D en Fusion 360, a partir de dibujos.</description>
     </item>
     
+    <item>
+      <title>Tutorial Generativo</title>
+      <link>https://sergiozaps98.github.io/docs/tutorial-generativo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://sergiozaps98.github.io/docs/tutorial-generativo/</guid>
+      <description>Presentación de técnica de modelado generativo.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial Molde</title>
+      <link>https://sergiozaps98.github.io/docs/tutorial-molde/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://sergiozaps98.github.io/docs/tutorial-molde/</guid>
+      <description>Presentación de técnica de modelado de molde.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial Superficies</title>
+      <link>https://sergiozaps98.github.io/docs/tutorial-superficies/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://sergiozaps98.github.io/docs/tutorial-superficies/</guid>
+      <description>Presentación de técnica de modelado por superficies.</description>
+    </item>
+    
   </channel>
 </rss>
